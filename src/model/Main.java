@@ -11,6 +11,8 @@ public class Main {
 		agList.print();
 		SensorList sensList = new SensorList();
 		sensList.print();
+		CommsList commsList = new CommsList();
+		commsList.print();
 	}
 
 }
