@@ -9,5 +9,6 @@ public class SensorList {
 		System.out.println("2_RP17 Sensor 4");
 		System.out.println("2_RP17 Sensor 5");
 		System.out.println("2_RP17 Sensor 6");	
+		System.out.println("2_RP17 Sensor 7");	
 	}
 }
